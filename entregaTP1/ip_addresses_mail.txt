@@ -1,0 +1,30 @@
+ - opera.com:
+    1 ASPMX.L.GOOGLE.com. 64.233.186.27
+    5 ALT1.ASPMX.L.GOOGLE.com.  64.233.184.26
+    5 ALT2.ASPMX.L.GOOGLE.com. 142.250.27.27
+    10 ALT3.ASPMX.L.GOOGLE.com. 142.250.153.27
+    10 ALT4.ASPMX.L.GOOGLE.com. 142.251.9.27
+
+- opera.technology.
+
+    5 ALT1.ASPMX.L.GOOGLE.COM 64.233.184.26
+    5 ALT2.ASPMX.L.GOOGLE.COM 142.250.27.27
+    10 ASPMX3.GOOGLEMAIL.COM 142.250.27.26
+    1 ASPMX.L.GOOGLE.COM 142.250.0.27
+    10 ASPMX2.GOOGLEMAIL.COM 64.233.184.27
+
+- Loomi.tv
+    - 1 aspmx.l.google.com. 142.250.0.27
+    - 5 alt1.aspmx.l.google.com.  64.233.184.26
+    - 5 alt2.aspmx.l.google.com.142.250.27.27
+    - 10 alt3.aspmx.l.google.com.  142.250.153.27
+    - 10 alt4.aspmx.l.google.com. 142.251.9.27
+- auth.opera.com
+    - 10 inbound-smtp.eu-west-1.amazonaws.com. 18.200.203.69, 54.76.31.185, 54.155.140.59
+- cashback.opera.com
+
+    10 alt3.aspmx.l.google.com142.250.153.27
+    10 alt4.aspmx.l.google.com 142.251.9.27
+    5 alt1.aspmx.l.google.com 64.233.184.26
+    5 alt2.aspmx.l.google.com 142.250.27.27
+    1 aspmx.l.google.com 142.250.0.27

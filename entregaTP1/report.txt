@@ -1,0 +1,25 @@
+- opera.com
+    - Abuse Contact Email: [law-enforcement-only@NameWeb.biz](mailto:law-enforcement-only@NameWeb.biz)
+    - Contact Phone: +32.33699772
+- opera.technology
+    - Registrar Abuse Contact Email: info@nameweb.biz
+    - Contact Phone: +31 40 4003839
+- gx.games
+    - Abuse Contact Email: info@nameweb.biz
+    - Contact Phone: +31 40 4003839
+- Loomi.tv
+    - Abuse Contact Email: law-enforcement-only@NameWeb.biz
+- flow.opera.com
+    - OrgAbuseEmail:  trustandsafety@support.aws.com
+    - OrgAbusePhone:  +1-206-555-0000
+- auth.opera.com
+    - OrgAbusePhone:  +1-650-253-0000
+    - OrgAbuseEmail:  google-cloud-compliance@google.com
+- www.opera.com
+    - OrgAbusePhone:  +1-206-555-0000
+    - OrgAbuseEmail:  trustandsafety@support.aws.com
+- cashback.opera.com
+    - email "trustandsafety@support.aws.com"
+    - phone "+1-206-555-0000"
+- opera.software
+    - email "abuse@opera.software"

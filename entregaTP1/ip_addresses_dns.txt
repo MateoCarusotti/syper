@@ -1,0 +1,59 @@
+opera.com
+    nic4.opera.com (IP: 103.83.123.78)
+    nic3.opera.com (IP: 103.83.123.78)
+    nic2.opera.com (IP: 37.228.109.145)
+    nic1.opera.com (IP: 185.26.182.67) – No permite transferencia de zona
+    nic6.opera.com (IP: 82.145.216.30)
+
+opera.technology
+    nic4.opera.com (IP: 107.167.96.21)
+    nic3.opera.com (IP: 103.83.123.78)
+    nic2.opera.com (IP: 37.228.109.145)
+    nic1.opera.com (IP: 185.26.182.67) – No permite transferencia de zona
+    nic6.opera.com (IP: 82.145.216.30)
+
+gx.games
+    ns-1148.awsdns-15.org (IP: 205.251.196.124) – Rechaza la conexión para transferencia de zona
+    ns-1574.awsdns-04.co.uk (IP: 205.251.198.38)
+    ns-430.awsdns-53.com (IP: 205.251.193.174)
+    ns-551.awsdns-04.net (IP: 205.251.194.39)
+
+Loomi.tv
+    ns-1748.awsdns-26.co.uk (IP: 205.251.198.212)
+    ns-590.awsdns-09.net (IP: 205.251.194.78)
+    ns-10.awsdns-01.com (IP: 205.251.192.10) – Rechaza la conexión para transferencia de zona
+    ns-1195.awsdns-21.org (IP: 205.251.196.171)
+
+auth.opera.com
+    ns-cloud-e1.googledomains.com (IP: 216.239.32.110) – No permite transferencia de zona
+    ns-cloud-e2.googledomains.com (IP: 216.239.34.110)
+    ns-cloud-e3.googledomains.com (IP: 216.239.36.110)
+    ns-cloud-e4.googledomains.com (IP: 216.239.38.110)
+
+accounts.opera.com (CNAME: accounts.geo.opera.com)
+    geo5.opera.technology (IP: 107.167.110.153)
+    geo6.opera.technology (IP: 185.26.182.77)
+    geo7.opera.technology (IP: 185.26.182.91)
+    geo8.opera.technology (IP: 107.167.110.154)
+    geo9.opera.technology (IP: 185.26.182.102)
+    geo10.opera.technology (IP: 82.145.216.11)
+    SOA: nic1.opera.com – No permite transferencia de zona
+
+flow.opera.com
+    ns-1312.awsdns-36.org (IP: 205.251.197.32)
+    ns-1863.awsdns-40.co.uk (IP: 205.251.199.71)
+    ns-343.awsdns-42.com (IP: 205.251.193.87)
+    ns-761.awsdns-31.net (IP: 205.251.194.249) – Rechaza la conexión para transferencia de zona
+
+osp.opera.software
+    nic4.opera.com (IP: 107.167.96.21)
+    nic3.opera.com (IP: 103.83.123.78)
+    nic2.opera.com (IP: 37.228.109.145)
+    nic1.opera.com (IP: 185.26.182.67) – No permite transferencia de zona
+    nic6.opera.com (IP: 82.145.216.30)
+
+cashback.opera.com
+    ns-1377.awsdns-44.org (IP: 205.251.197.97)
+    ns-1904.awsdns-46.co.uk (IP: 205.251.199.112)
+    ns-220.awsdns-27.com (IP: 205.251.192.220)
+    ns-860.awsdns-43.net (IP: 205.251.195.92) – Rechaza la conexión para transferencia de zona
