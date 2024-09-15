@@ -1,0 +1,40 @@
+nic4.opera.com. 107.167.96.21
+    Port 53/TCP DNS
+    Port 53/UDP DNS
+nic3.opera.com. 103.83.123.78
+    Port 53/TCP DNS
+    Port 53/UDP DNS
+nic2.opera.com. 37.228.109.145
+    Port 53/TCP DNS
+    Port 53/UDP DNS
+ns-cloud-e1.googledomains.com. 216.239.32.110
+    Port 53/TCP DNS
+    Port 53/UDP DNS
+opera.com 185.26.182.104
+    Port 80/TCP HTTP/1.1
+    Port 443/TCP HTTP/1.1
+bugs.opera.com 185.26.183.131
+    Port 80/TCP HTTP/1.1 apache 2.4.25
+    Port 443/TCP HTTP/1.1 Apache 2.4.25
+cashback.opera.com 18.157.69.254
+    Port 443/TCP HTTP/1.1
+cashback.opera.com 3.125.161.196
+    Port 80/TCP HTTP/1.1 AWS ELB 2.0
+    Port 443/TCP HTTP/1.1
+osp.opera.software 82.145.213.110
+    Port 443/TCP HTTP/1.1 nginx 1.22.0
+flow.opera.com 35.156.9.75
+    Port 443/TCP HTTP/1.1 AWS ELB 2.0
+flow.opera.com 3.215.172.55
+    Port 443/TCP HTTP/1.1 AWS ELB 2.0
+flow.opera.com 35.156.9.75
+    Port 443/TCP HTTP/1.1 AWS ELB 2.0
+auth.opera.com 34.54.250.129
+    Port 80/TCP HTTP/1.1
+    Port 443/TCP HTTP/1.1
+
+
+
+
+
+
